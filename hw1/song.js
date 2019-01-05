@@ -4,7 +4,7 @@
 */
 
 
-// The following codde list attributes of a song call "Bring back my happy weekend, please!"
+// The following code lists attributes of a song called "Bring back my happy weekend, please!"
 
 var title = "Bring back my happy weekend, please!"; 
 var genre = "Blue"; 
